@@ -1,5 +1,5 @@
 {
-    "name": "AnnulusGames.SceneSystem.Editor",
+    "name": "CozycatGame.SceneSystem.Editor",
     "rootNamespace": "",
     "references": [
         "GUID:1fccaaf8fdf894b1db5e4c040178ba9f"

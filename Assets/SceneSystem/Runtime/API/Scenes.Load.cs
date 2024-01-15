@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 using UnityEngine.SceneManagement;
-using AnnulusGames.SceneSystem.LoadSceneOperations;
+using CozycatGame.SceneSystem.LoadSceneOperations;
 
 namespace CozycatGame.SceneSystem
 {

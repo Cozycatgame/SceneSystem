@@ -1,5 +1,5 @@
 {
-  "name": "com.annulusgames.scene-system",
+  "name": "com.CozycatGame.scene-system",
   "version": "1.0.0",
   "displayName": "Scene System",
   "description": "Provides efficient and versatile scene management functionality for Unity.",
@@ -9,7 +9,7 @@
   },
   "author": {
     "name": "Annulus Games",
-    "url": "https://github.com/AnnulusGames"
+    "url": "https://github.com/CozycatGame"
   },
   "samples": [
     {

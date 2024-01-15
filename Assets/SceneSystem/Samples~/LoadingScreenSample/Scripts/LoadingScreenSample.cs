@@ -1,5 +1,5 @@
 using UnityEngine;
-using AnnulusGames.SceneSystem;
+using CozycatGame.SceneSystem;
 
 public sealed class LoadingScreenSample : MonoBehaviour
 {
