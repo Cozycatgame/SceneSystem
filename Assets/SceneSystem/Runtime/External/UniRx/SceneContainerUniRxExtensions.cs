@@ -2,7 +2,7 @@
 using System;
 using UniRx;
 
-namespace AnnulusGames.SceneSystem
+namespace CozycatGame.SceneSystem
 {
     public static class SceneContainerUniRxExtensions
     {

@@ -2,7 +2,7 @@ using System.Collections;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace AnnulusGames.SceneSystem
+namespace CozycatGame.SceneSystem
 {
     public static class LoadSceneOperationHandleExtensions
     {

@@ -1,6 +1,6 @@
 using UnityEngine.SceneManagement;
 
-namespace AnnulusGames.SceneSystem
+namespace CozycatGame.SceneSystem
 {
     public interface ILoadSceneCallbackReceiver
     {

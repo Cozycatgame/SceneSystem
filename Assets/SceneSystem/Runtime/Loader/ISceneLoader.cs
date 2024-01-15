@@ -1,7 +1,7 @@
 using UnityEngine.SceneManagement;
 using AnnulusGames.SceneSystem.LoadSceneOperations;
 
-namespace AnnulusGames.SceneSystem
+namespace CozycatGame.SceneSystem
 {
     public interface ISceneLoader
     {

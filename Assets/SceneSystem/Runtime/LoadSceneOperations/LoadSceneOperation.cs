@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace AnnulusGames.SceneSystem.LoadSceneOperations
+namespace CozycatGame.SceneSystem.LoadSceneOperations
 {
     public sealed class LoadSceneOperation : LoadSceneOperationBase
     {

@@ -1,7 +1,7 @@
 using System;
 using AnnulusGames.SceneSystem.LoadSceneOperations;
 
-namespace AnnulusGames.SceneSystem
+namespace CozycatGame.SceneSystem
 {
     public struct LoadSceneOperationHandle
     {

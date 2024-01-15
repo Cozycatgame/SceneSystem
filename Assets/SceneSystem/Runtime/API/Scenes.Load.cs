@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using UnityEngine.SceneManagement;
 using AnnulusGames.SceneSystem.LoadSceneOperations;
 
-namespace AnnulusGames.SceneSystem
+namespace CozycatGame.SceneSystem
 {
     public static partial class Scenes
     {

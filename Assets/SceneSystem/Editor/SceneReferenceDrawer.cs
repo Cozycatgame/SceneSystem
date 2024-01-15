@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEditor;
 using UnityEngine.SceneManagement;
 
-namespace AnnulusGames.SceneSystem.Editor
+namespace CozycatGame.SceneSystem.Editor
 {
     [CustomPropertyDrawer(typeof(SceneReference))]
     public sealed class SceneReferenceDrawer : PropertyDrawer

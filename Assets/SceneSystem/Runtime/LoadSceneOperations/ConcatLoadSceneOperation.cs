@@ -1,7 +1,7 @@
 using System;
 using System.Linq;
 
-namespace AnnulusGames.SceneSystem.LoadSceneOperations
+namespace CozycatGame.SceneSystem.LoadSceneOperations
 {
     public sealed class ConcatLoadSceneOperation : LoadSceneOperationBase
     {

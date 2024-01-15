@@ -1,4 +1,4 @@
-namespace AnnulusGames.SceneSystem
+namespace CozycatGame.SceneSystem
 {
     public static class WithLoadingScreenExtensions
     {

@@ -5,7 +5,7 @@ using UnityEngine.Events;
 using UnityEngine.InputSystem;
 #endif
 
-namespace AnnulusGames.SceneSystem
+namespace CozycatGame.SceneSystem
 {
     [AddComponentMenu("Scene System/Loading Screen")]
     public class LoadingScreen : MonoBehaviour

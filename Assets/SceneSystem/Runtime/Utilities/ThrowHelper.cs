@@ -1,6 +1,6 @@
 using System;
 
-namespace AnnulusGames.SceneSystem
+namespace CozycatGame.SceneSystem
 {
     internal static class ThrowHelper
     {

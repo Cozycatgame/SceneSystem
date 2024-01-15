@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 using UnityEditor;
 #endif
 
-namespace AnnulusGames.SceneSystem
+namespace CozycatGame.SceneSystem
 {
     [Serializable]
     public sealed class SceneReference
